@@ -31,3 +31,10 @@ Temporary Items
 ### macOS Patch ###
 # iCloud generated files
 *.icloud
+
+# Temporary files
+*.mp4
+*.tmp
+*.temp
+*.log
+*.swp
